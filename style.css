@@ -29,3 +29,7 @@
         background-color:#34b88bb;
         display:block;
 }
+
+body {
+  background: red;
+}
