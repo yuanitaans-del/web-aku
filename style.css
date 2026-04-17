@@ -24,3 +24,8 @@
         color:#FFF;
         text-decoration:none;
 }
+
+.menu ul li a:hover {
+        background-color:34b88bb;
+        display:block;
+}
